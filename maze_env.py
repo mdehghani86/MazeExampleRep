@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from environment import BaseEnvironment
+from MazeExampleRep.environment import BaseEnvironment
 
 import numpy as np
 
